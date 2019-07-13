@@ -5,12 +5,14 @@
 Keras model is trained on MNIST dataset. Model is saved as model.h5 and model.json file. Model is trained using train.py file. 
 
 ## Dependencies
-'''install python3'''
+
+```install python3
 install pip
 install Flask
 install numpy
 install keras
 install pillow
+```
 
 ## Usage
 
