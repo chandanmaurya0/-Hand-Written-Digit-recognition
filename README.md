@@ -20,6 +20,10 @@ Once dependencies are installed, just run this to see it in your browser.
 
 ```python app.py```
 
+Click on the below link to open web application 
+
+[localhost:5000/]("localhost:5000/")
+
 That's it! It's serving a saved Keras model to you via Flask. 
 
 
