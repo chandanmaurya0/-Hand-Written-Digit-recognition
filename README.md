@@ -3,6 +3,7 @@
 
 ## Overview
 Keras model is trained on MNIST dataset. Model is saved as model.h5 and model.json file. Model is trained using train.py file. 
+![Screenshot (69)](https://user-images.githubusercontent.com/49331380/61172460-40165080-a5a2-11e9-85be-d5df6ccd4e4a.png)
 
 ## Dependencies
 
